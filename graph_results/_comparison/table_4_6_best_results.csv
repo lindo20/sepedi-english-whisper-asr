@@ -1,0 +1,6 @@
+Model,Best Validation Loss,Best WER (%),Best CER (%)
+Baseline,0.0302,2.74,1.22
+Noise Injection,0.01,1.82,1.0
+Speed Perturbation,0.0091,2.0,1.16
+Pitch Shift,0.0088,2.33,1.24
+SpecAugment,0.01,1.67,0.9

@@ -1,0 +1,5 @@
+Model,WER Improvement (%),CER Improvement (%)
+Noise Injection,33.6,18.3
+Speed Perturbation,26.8,4.3
+Pitch Shift,14.8,-1.7
+SpecAugment,38.9,26.2
